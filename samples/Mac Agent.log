@@ -1,0 +1,701 @@
+Feb  4 00:02:45 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 00:03:17 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[2717]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:03:18 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[2719]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:12:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 00:12:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 00:13:10 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[2720]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:15:00 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 00:15:22 macvm xpcproxy[2789]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port
+Feb  4 00:15:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[2786]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:15:38 macvm syncdefaultsd[2792]: objc[2792]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 00:15:38 macvm syncdefaultsd[2792]: objc[2792]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 00:15:54 macvm remindd[2797]: objc[2797]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Feb  4 00:15:55 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.remindd.2797): Failed to bootstrap path: path = /usr/libexec/remindd, error = 108: Invalid path
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[2791]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0200-0000-0000-000000000000[2795]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0300-0000-0000-000000000000[2798]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0100-0000-0000-000000000000[2799]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0100-0000-0000-000000000000[2794]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0500-0000-0000-000000000000[2796]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0000-0000-0000-000000000000[2793]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0300-0000-0000-000000000000[2802]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[2801]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0700-0000-0000-000000000000[2800]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:16:37 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[2803]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:18:21 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[2804]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:18:21 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[2805]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:22:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 00:22:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 00:23:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[2806]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.callhistory.asl.conf" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.AddressBookLegacy" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:00 macvm syslogd[96]: Configuration Notice:
+	ASL Module "com.apple.clouddocs" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Feb  4 00:30:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000[2807]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:32:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 00:32:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 00:33:23 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[2812]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:33:23 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[2810]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:42:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 00:42:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 00:43:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[2813]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:48:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[2816]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:48:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[2815]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 00:52:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 00:52:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 00:53:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[2817]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:02:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 01:02:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 01:03:29 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[2820]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:03:29 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[2818]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:12:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 01:12:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 01:13:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[2823]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:18:32 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[2828]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:18:32 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[2829]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:19:35 macvm syncdefaultsd[2830]: objc[2830]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 01:19:35 macvm syncdefaultsd[2830]: objc[2830]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 01:22:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 01:22:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 01:23:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[2831]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0200-0000-0000-000000000000[2837]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0200-0000-0000-000000000000[2836]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0400-0000-0000-000000000000[2839]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[2843]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0100-0000-0000-000000000000[2841]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0600-0000-0000-000000000000[2838]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0300-0000-0000-000000000000[2842]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0100-0000-0000-000000000000[2833]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[2840]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0400-0000-0000-000000000000[2834]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:30:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[2835]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:32:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 01:32:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 01:33:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[2845]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:33:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[2847]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:42:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 01:42:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 01:43:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[2848]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:48:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[2851]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:48:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[2850]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 01:52:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 01:52:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 01:53:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[2852]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:02:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 02:02:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 02:03:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[2856]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:03:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[2858]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:06:40 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.fud.2859): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud, error = 2: No such file or directory
+Feb  4 02:12:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 02:12:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 02:13:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[2861]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:13:49 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0500-0000-0000-000000000000[2864]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:13:49 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0200-0000-0000-000000000000[2863]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:18:42 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[2866]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:18:42 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[2867]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:22:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 02:22:55 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 02:23:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[2868]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 02:32:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 02:33:45 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[2873]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:33:45 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[2871]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:42:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 02:43:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[2874]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:43:11 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 02:48:20 macvm awdd[240]: Diagnostics Report
+Feb  4 02:48:47 --- last message repeated 1 time ---
+Feb  4 02:48:47 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[2877]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:48:47 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[2876]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:52:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 02:53:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[2878]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 02:53:12 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 03:02:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 03:03:49 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[2881]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:03:49 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 03:03:49 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[2883]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 03:13:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[2884]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:16:38 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 03:18:50 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[2889]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:18:50 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[2890]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 03:23:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[2892]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:27:31 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 03:32:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 03:33:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[2895]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:33:54 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[2898]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:33:54 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[2897]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:35:05 macvm com.apple.xpc.launchd[1] (com.apple.bsd.dirhelper[2899]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.bsd.dirhelper
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0300-0000-0000-000000000000[2927]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0500-0000-0000-000000000000[2924]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[2921]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0200-0000-0000-000000000000[2922]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0600-0000-0000-000000000000[2918]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0700-0000-0000-000000000000[2925]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0300-0000-0000-000000000000[2926]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0400-0000-0000-000000000000[2923]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0300-0000-0000-000000000000[2920]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:36:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[2919]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 03:42:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 03:43:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[2928]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:48:56 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[2930]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:48:56 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[2931]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:52:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 03:53:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[2936]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 03:53:11 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 04:02:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 04:03:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[2940]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:03:12 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 04:04:00 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[2943]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:04:00 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[2942]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 04:13:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[2944]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:13:12 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 04:19:02 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[2948]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:19:02 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[2949]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 04:23:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[2950]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:23:12 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 04:26:28 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0400-0000-0000-000000000000[2951]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:32:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 04:33:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[2953]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:33:12 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 04:34:06 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[2956]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:34:06 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[2955]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 04:43:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[2957]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:43:12 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 04:49:09 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[2960]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:49:09 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[2959]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 04:52:55 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 04:53:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[2961]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:00:41 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 05:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 05:03:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[2965]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:04:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[2966]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:04:11 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[2967]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 05:12:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 05:13:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[2968]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:19:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[2974]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:19:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[2973]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:21:35 macvm syncdefaultsd[2975]: objc[2975]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 05:21:35 macvm syncdefaultsd[2975]: objc[2975]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 05:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 05:22:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 05:23:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[2976]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:48 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[2982]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:48 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0500-0000-0000-000000000000[2983]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:48 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[2981]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:48 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0500-0000-0000-000000000000[2978]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:48 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0400-0000-0000-000000000000[2979]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:48 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0400-0000-0000-000000000000[2984]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:53 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0600-0000-0000-000000000000[2986]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:53 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0000-0000-0000-000000000000[2985]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:53 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0700-0000-0000-000000000000[2980]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:28:53 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0300-0000-0000-000000000000[2987]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 05:32:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 05:33:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[2989]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:34:15 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[2992]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:34:15 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[2991]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 05:42:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 05:43:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[2993]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:44:26 macvm syncdefaultsd[2994]: objc[2994]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 05:44:26 macvm syncdefaultsd[2994]: objc[2994]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 05:49:16 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[2996]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:49:16 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[2997]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 05:52:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 05:52:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 05:53:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[2998]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 06:02:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 06:03:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3002]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:04:19 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[3004]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:04:19 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3005]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:11:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0000-0000-0000-000000000000[3007]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:11:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0400-0000-0000-000000000000[3006]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 06:12:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 06:13:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[3008]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:15:26 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[3013]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:19:22 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3015]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:19:22 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3014]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 06:22:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 06:23:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3016]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 06:32:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 06:33:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3018]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:34:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3020]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:34:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[3021]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 06:42:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 06:43:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3022]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:49:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[3025]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:49:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3024]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 06:52:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 06:52:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 06:53:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3026]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 07:02:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 07:03:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3030]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:04:30 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[3033]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:04:30 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3032]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 07:12:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 07:13:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3034]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:19:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3040]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:19:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3039]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 07:22:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 07:23:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3041]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0500-0000-0000-000000000000[3051]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0500-0000-0000-000000000000[3045]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3053]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0600-0000-0000-000000000000[3054]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[3049]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0100-0000-0000-000000000000[3047]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0600-0000-0000-000000000000[3050]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0500-0000-0000-000000000000[3052]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0100-0000-0000-000000000000[3048]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:31 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0700-0000-0000-000000000000[3046]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 07:32:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 07:33:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3056]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:34:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3057]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:34:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[3058]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 07:42:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 07:43:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[3059]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:49:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3062]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:49:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[3061]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 07:52:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 07:52:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 07:53:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3063]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 08:02:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 08:03:12 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3067]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:04:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3070]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:04:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3069]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 08:12:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 08:13:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[3071]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:19:42 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[3074]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:19:42 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3075]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:22:28 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3076]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 08:22:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 08:23:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[3077]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 08:32:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 08:33:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3079]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:34:45 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[3081]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:34:45 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3082]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 08:42:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 08:43:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3084]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:49:47 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3086]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:49:47 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[3087]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 08:52:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 08:52:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 09:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 09:02:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 09:03:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3092]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:04:51 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[3094]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:04:51 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3095]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 09:12:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 09:13:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3096]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:17:09 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3099]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:19:52 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[3103]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:19:52 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3102]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 09:22:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 09:23:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[3104]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0200-0000-0000-000000000000[3110]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0600-0000-0000-000000000000[3109]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000[3111]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0200-0000-0000-000000000000[3108]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3112]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0600-0000-0000-000000000000[3115]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:29 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3107]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:29 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0700-0000-0000-000000000000[3113]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:29 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0600-0000-0000-000000000000[3114]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:28:29 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0700-0000-0000-000000000000[3106]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 09:32:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 09:33:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3117]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:34:55 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3120]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:34:55 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[3119]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 09:42:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 09:43:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[3121]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:46:26 macvm syncdefaultsd[3122]: objc[3122]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 09:46:26 macvm syncdefaultsd[3122]: objc[3122]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 09:49:57 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3125]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:49:57 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[3124]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 09:52:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 09:52:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 09:53:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3126]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 10:02:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 10:03:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3130]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:05:00 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3133]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:05:00 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3132]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:12:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0000-0000-0000-000000000000[3134]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:12:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0700-0000-0000-000000000000[3135]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 10:12:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 10:13:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[3136]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:13:51 macvm syncdefaultsd[3137]: objc[3137]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 10:13:51 macvm syncdefaultsd[3137]: objc[3137]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 10:14:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[3140]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:20:03 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3143]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:20:03 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[3142]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 10:22:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 10:23:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3144]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 10:32:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 10:33:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[3146]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:35:05 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[3148]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:35:05 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3149]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 10:42:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 10:43:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[3150]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:50:06 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3153]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:50:06 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3152]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 10:52:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 10:52:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 10:53:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3154]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:00:46 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3156]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 11:02:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 11:03:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3157]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:05:08 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[3162]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:05:08 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3161]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:12:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 11:12:57 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 11:13:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3163]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:20:10 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[3169]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:20:10 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3168]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 11:23:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[3170]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:23:13 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 11:32:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 11:33:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3173]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:33:14 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 11:35:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3176]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:35:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[3175]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0000-0000-0000-000000000000[3177]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0300-0000-0000-000000000000[3184]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0100-0000-0000-000000000000[3183]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3180]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0700-0000-0000-000000000000[3187]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[3182]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0000-0000-0000-000000000000[3179]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0700-0000-0000-000000000000[3181]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3186]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0300-0000-0000-000000000000[3185]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:36:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0100-0000-0000-000000000000[3178]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:42:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 11:43:13 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3188]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:50:15 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0200-0000-0000-000000000000[3191]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:50:15 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 11:50:15 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3190]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 11:52:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 11:53:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3192]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 12:02:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 12:03:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3194]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:05:17 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[3199]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:05:17 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3198]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 12:12:56 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 12:13:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3200]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:13:28 macvm PerfPowerServices[3204]: assertion failed: 19H2: PowerlogLiteOperators + 1143229 [AA27A730-5E9D-39CE-ACA4-8371606B46A3]: 0x0
+Feb  4 12:18:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0400-0000-0000-000000000000[3207]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:20:20 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3209]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:20:20 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3208]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:22:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 12:22:57 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 12:23:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0500-0000-0000-000000000000[3210]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:32:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 12:32:57 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 12:33:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[3212]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:35:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3216]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:35:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[3214]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:35:24 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0300-0000-0000-000000000000[3215]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:42:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 12:42:57 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 12:43:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3217]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:50:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3219]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:50:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0400-0000-0000-000000000000[3220]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 12:52:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 12:52:57 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 12:53:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0500-0000-0000-000000000000[3221]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:02:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 13:02:57 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 13:03:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0600-0000-0000-000000000000[3225]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:05:30 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0700-0000-0000-000000000000[3227]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:05:30 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3228]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:12:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 13:13:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3230]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:13:14 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 13:20:32 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3234]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:20:32 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000[3235]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:22:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 13:23:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3236]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:23:14 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 13:28:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0000-0000-0000-000000000000[3245]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0100-0000-0000-000000000000[3244]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0000-0000-0000-000000000000[3240]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0400-0000-0000-000000000000[3239]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0100-0000-0000-000000000000[3243]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0500-0000-0000-000000000000[3238]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0200-0000-0000-000000000000[3248]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3246]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0200-0000-0000-000000000000[3241]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:28:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0600-0000-0000-000000000000[3247]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:32:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 13:33:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0500-0000-0000-000000000000[3250]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:33:14 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 13:35:36 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0100-0000-0000-000000000000[3253]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:35:36 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3252]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:42:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 13:43:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0200-0000-0000-000000000000[3254]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:43:14 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 13:50:38 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0300-0000-0000-000000000000[3256]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:50:38 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3257]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:52:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 13:53:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0400-0000-0000-000000000000[3258]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 13:53:14 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 13:56:38 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0500-0000-0000-000000000000[3262]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:02:56 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 14:03:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0600-0000-0000-000000000000[3263]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:03:14 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 14:05:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3266]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:05:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0700-0000-0000-000000000000[3265]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:11:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0300-0000-0000-000000000000[3268]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:11:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0700-0000-0000-000000000000[3267]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:12:25 macvm com.apple.xpc.launchd[1] (com.apple.sandboxd[156]): Service exited due to SIGALRM | sent by kernel_task[0]
+Feb  4 14:12:34 macvm AccountProfileRemoteViewService[3275]: objc[3275]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Feb  4 14:12:34 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.walletAvailabil.3281): Failed to bootstrap path: path = /System/Library/PreferencePanes/Wallet.prefPane/Contents/Resources/walletAvailabilityCheckTool, error = 2: No such file or directory
+Feb  4 14:12:38 macvm SharingPrefsExtension[3288]: objc[3288]: Class PDFToRasterImageRef is implemented in both /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/AMPLibrary and /System/Library/PrivateFrameworks/AMPSharing.framework/Versions/A/PlugIns/SharingPrefsExtension.appex/Contents/MacOS/SharingPrefsExtension. One of the two will be used. Which one is undefined.
+Feb  4 14:12:47 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 14:12:47 macvm xpcproxy[3292]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port
+Feb  4 14:13:15 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3286]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:13:15 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 14:13:15 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0000-0000-0000-000000000000[3271]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:14:19 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0100-0000-0000-000000000000[3295]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:14:33 macvm opendirectoryd[130]: Libnotify client using deprecated function notify_simple_post, use notify_post instead
+Feb  4 14:14:33 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.diskmanagementstartup.3306): Failed to bootstrap path: path = /usr/libexec/diskmanagementstartup, error = 108: Invalid path
+Feb  4 14:14:34 macvm efilogin-helper[3313]: objc[3313]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:14:34 macvm efilogin-helper[3313]: objc[3313]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x10f16f5e8). One of the two will be used. Which one is undefined.
+Feb  4 14:14:34 macvm com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Feb  4 14:14:35 macvm efilogin-helper[3314]: objc[3314]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:14:35 macvm efilogin-helper[3314]: objc[3314]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x107c8c5e8). One of the two will be used. Which one is undefined.
+Feb  4 14:14:39 macvm com.apple.xpc.launchd[1] (com.openssh.sshd.483EC9C8-EA65-4C4F-9D6C-C4B948689740[3297]): Service exited with abnormal code: 255
+Feb  4 14:14:39 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.efilogin-helper.3314): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper, error = 2: No such file or directory
+Feb  4 14:14:39 macvm VTDecoderXPCService[3316]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:14:39 macvm VTDecoderXPCService[3316]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:14:39 macvm VTDecoderXPCService[3316]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:14:39 macvm VTDecoderXPCService[3316]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:14:45 macvm xpcproxy[3321]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port
+Feb  4 14:14:46 macvm sshd: fhlip0 [priv][3317]: USER_PROCESS: 3323 ttys001
+Feb  4 14:14:47 macvm com.apple.xpc.launchd[1] (com.apple.sandboxd[3273]): Service exited due to SIGALRM | sent by kernel_task[0]
+Feb  4 14:15:00 macvm efilogin-helper[3336]: objc[3336]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:15:00 macvm efilogin-helper[3336]: objc[3336]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x104bdc5e8). One of the two will be used. Which one is undefined.
+Feb  4 14:15:00 macvm com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Feb  4 14:15:01 macvm efilogin-helper[3337]: objc[3337]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:15:01 macvm efilogin-helper[3337]: objc[3337]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x10fbec5e8). One of the two will be used. Which one is undefined.
+Feb  4 14:15:02 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.efilogin-helper.3337): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper, error = 2: No such file or directory
+Feb  4 14:15:02 macvm VTDecoderXPCService[3338]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:15:02 macvm VTDecoderXPCService[3338]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:15:02 macvm VTDecoderXPCService[3338]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:15:02 macvm VTDecoderXPCService[3338]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:15:26 macvm sshd: fhlip0 [priv][3317]: DEAD_PROCESS: 3323 ttys001
+Feb  4 14:15:26 macvm com.apple.xpc.launchd[1] (com.openssh.sshd.3751A573-81D1-4671-BE2D-4861C31123AC[3317]): Service exited with abnormal code: 255
+Feb  4 14:15:41 macvm sshd: fhlip0 [priv][3343]: USER_PROCESS: 3347 ttys001
+Feb  4 14:15:46 macvm com.apple.xpc.launchd[1] (com.apple.sandboxd[3346]): Service exited due to SIGALRM | sent by kernel_task[0]
+Feb  4 14:15:52 macvm syncdefaultsd[3352]: objc[3352]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 14:15:52 macvm syncdefaultsd[3352]: objc[3352]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 14:16:17 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): com.apple.smbd (lint): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.
+Feb  4 14:16:17 macvm smb-sync-preferences[3353]: assertion failed: 19H2: libxpc.dylib + 45800 [3E243A41-030F-38E3-9FD2-7B38C66C35B1]: 0x2d
+Feb  4 14:16:17 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): Caller tried to import service with same label as an existing service: path = /System/Library/LaunchDaemons/com.apple.smbd.plist, caller = launchctl.3357
+Feb  4 14:16:17 macvm com.apple.xpc.launchd[1] (com.apple.Kerberos.kdc[145]): Service exited due to SIGKILL | sent by launchd[1]
+Feb  4 14:16:17 macvm smb-sync-preferences[3360]: assertion failed: 19H2: libxpc.dylib + 45800 [3E243A41-030F-38E3-9FD2-7B38C66C35B1]: 0x2d
+Feb  4 14:16:34 macvm sshd: fhlip0 [priv][3343]: DEAD_PROCESS: 3347 ttys001
+Feb  4 14:16:34 macvm com.apple.xpc.launchd[1] (com.openssh.sshd.71013E53-D9C8-4288-95BB-EB7C39F170B4[3343]): Service exited with abnormal code: 255
+Feb  4 14:17:00 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3366]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:17:48 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0300-0000-0000-000000000000[3368]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:18:31 macvm com.apple.xpc.launchd[1] (com.apple.screensharing[3376]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.screensharing.server
+Feb  4 14:19:27 macvm com.apple.xpc.launchd[1] (com.apple.screensharing[3379]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.screensharing.server
+Feb  4 14:19:48 macvm com.apple.xpc.launchd[1] (com.apple.screensharing[3382]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.screensharing.server
+Feb  4 14:20:00 macvm com.apple.xpc.launchd[1] (com.apple.AccountProfileRemoteViewService[3275]): Service exited due to SIGKILL | sent by AccountProfileRemoteViewService[3275]
+Feb  4 14:20:00 macvm com.apple.xpc.launchd[1] (com.apple.preferences.sharing.remoteservice[3285]): Service exited due to SIGKILL | sent by com.apple.preferences.sharing.re[3285]
+Feb  4 14:20:19 macvm ScreensharingAgent[3383]: BUG in libdispatch client: mach_recv, monitored resource vanished before the source cancel handler was invoked { 0x7fae28f0ae20[source], ident: 23823 / 0x5d0f, handler: 0x7fff60f39ed1 }
+Feb  4 14:20:41 macvm com.apple.xpc.launchd[1] (com.apple.screensharing[3387]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.screensharing.server
+Feb  4 14:20:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.02000000-0200-0000-0000-000000000000[3386]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:20:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0000-0000-0000-000000000000[3385]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:22:47 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 14:22:47 macvm AccountProfileRemoteViewService[3395]: objc[3395]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Feb  4 14:22:48 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.walletAvailabil.3400): Failed to bootstrap path: path = /System/Library/PreferencePanes/Wallet.prefPane/Contents/Resources/walletAvailabilityCheckTool, error = 2: No such file or directory
+Feb  4 14:22:48 macvm com.apple.preference.security.remoteservice[3402]: objc[3402]: Class AWDSecurityPrefAutoUnlockSetup is implemented in both /System/Library/PreferencePanes/Security.prefPane/Contents/XPCServices/com.apple.preference.security.remoteservice.xpc/Contents/MacOS/com.apple.preference.security.remoteservice (0x10193d768) and /System/Library/PreferencePanes/Security.prefPane/Contents/MacOS/Security (0x1040ce180). One of the two will be used. Which one is undefined.
+Feb  4 14:23:09 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0200-0000-0000-000000000000[3391]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:23:17 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 14:23:22 macvm Installer[3412]: assertion failed: 19H2: libxpc.dylib + 92759 [3E243A41-030F-38E3-9FD2-7B38C66C35B1]: 0x89
+Feb  4 14:23:22 macvm xpcproxy[3415]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port
+Feb  4 14:23:22 macvm MusicCacheExtension[3417]: objc[3417]: Class PDFToRasterImageRef is implemented in both /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/AMPLibrary and /System/Applications/Music.app/Contents/PlugIns/MusicCacheExtension.appex/Contents/MacOS/MusicCacheExtension. One of the two will be used. Which one is undefined.
+Feb  4 14:23:22 macvm TVCacheExtension[3418]: objc[3418]: Class PDFToRasterImageRef is implemented in both /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/AMPLibrary and /System/Applications/TV.app/Contents/PlugIns/TVCacheExtension.appex/Contents/MacOS/TVCacheExtension. One of the two will be used. Which one is undefined.
+Feb  4 14:23:26 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.07000000-0100-0000-0000-000000000000[3405]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:23:27 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.00000000-0100-0000-0000-000000000000[3406]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:23:57 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.01000000-0400-0000-0000-000000000000[3410]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:24:28 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0400-0000-0000-000000000000[3414]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:24:44 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.installd.1065): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/Resources/installd, error = 2: No such file or directory
+Feb  4 14:24:47 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.profiles.3427): Failed to bootstrap path: path = /usr/bin/profiles, error = 2: No such file or directory
+Feb  4 14:24:47 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.mdmclient.3429): Failed to bootstrap path: path = /usr/libexec/mdmclient, error = 108: Invalid path
+Feb  4 14:24:47 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.profiles.3433): Failed to bootstrap path: path = /usr/bin/profiles, error = 2: No such file or directory
+Feb  4 14:24:49 macvm com.apple.xpc.launchd[1] (com.sentinelone.sentineld): This service is defined to be constantly running and is inherently inefficient.
+Feb  4 14:24:49 macvm com.apple.xpc.launchd[1] (com.sentinelone.agent): This service is defined to be constantly running and is inherently inefficient.
+Feb  4 14:24:51 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.diskmanagementstartup.3465): Failed to bootstrap path: path = /usr/libexec/diskmanagementstartup, error = 108: Invalid path
+Feb  4 14:24:51 macvm com.apple.xpc.launchd[1] (com.apple.bsd.dirhelper[3466]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.bsd.dirhelper
+Feb  4 14:24:52 macvm efilogin-helper[3474]: objc[3474]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:24:52 macvm efilogin-helper[3474]: objc[3474]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x1031d05e8). One of the two will be used. Which one is undefined.
+Feb  4 14:24:54 macvm efilogin-helper[3486]: objc[3486]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:24:54 macvm efilogin-helper[3486]: objc[3486]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x1009945e8). One of the two will be used. Which one is undefined.
+Feb  4 14:24:57 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.efilogin-helper.3486): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper, error = 2: No such file or directory
+Feb  4 14:24:57 macvm VTDecoderXPCService[3489]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:24:57 macvm VTDecoderXPCService[3489]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:24:57 macvm VTDecoderXPCService[3489]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:24:57 macvm VTDecoderXPCService[3489]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:25:03 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.profiles.3501): Failed to bootstrap path: path = /usr/bin/profiles, error = 2: No such file or directory
+Feb  4 14:25:03 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.profiles.3502): Failed to bootstrap path: path = /usr/bin/profiles, error = 2: No such file or directory
+Feb  4 14:25:04 macvm xpcproxy[3503]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port
+Feb  4 14:25:07 macvm com.apple.xpc.launchd[1] (com.apple.mDNSResponder.reloaded[189]): Service exited due to SIGKILL | sent by sentineld_helper[3467]
+Feb  4 14:25:21 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.08000000-0100-0000-0000-000000000000[3421]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:25:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.05000000-0100-0000-0000-000000000000[3443]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:25:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.06000000-0100-0000-0000-000000000000[3444]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:25:25 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0100-0000-0000-000000000000[3445]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:25:31 macvm efilogin-helper[3523]: objc[3523]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:25:32 macvm efilogin-helper[3523]: objc[3523]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x10c3695e8). One of the two will be used. Which one is undefined.
+Feb  4 14:25:32 macvm com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Feb  4 14:25:33 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.DesktopServicesHelper.3525): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/Resources/DesktopServicesHelper, error = 2: No such file or directory
+Feb  4 14:25:33 macvm efilogin-helper[3527]: objc[3527]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:25:33 macvm efilogin-helper[3527]: objc[3527]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x107d1a5e8). One of the two will be used. Which one is undefined.
+Feb  4 14:25:36 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.efilogin-helper.3527): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper, error = 2: No such file or directory
+Feb  4 14:25:37 macvm VTDecoderXPCService[3528]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:25:37 macvm VTDecoderXPCService[3528]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:25:37 macvm VTDecoderXPCService[3528]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:25:37 macvm VTDecoderXPCService[3528]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:27:35 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0600-0000-0000-000000000000[3539]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:27:42 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.DesktopServicesHelper.3544): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/Resources/DesktopServicesHelper, error = 2: No such file or directory
+Feb  4 14:27:49 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0200-0000-0000-000000000000[3543]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:28:31 macvm CoreSpotlightService[3560]: BUG in libdispatch: 19H2 - 1775 - 0x1
+Feb  4 14:28:32 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0100-0000-0000-000000000000[3547]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:28:32 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0300-0000-0000-000000000000[3549]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:29:39 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0700-0000-0000-000000000000[3561]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:30:25 macvm com.apple.xpc.launchd[1] (com.apple.bsd.dirhelper[3576]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.bsd.dirhelper
+Feb  4 14:30:25 macvm Finder[403]: libcoreservices: __create_or_fix_relative_directory: 1002: __dirhelper_create_relative_with_error: error Operation not permitted
+Feb  4 14:30:28 macvm efilogin-helper[3577]: objc[3577]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:30:28 macvm efilogin-helper[3577]: objc[3577]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x109fb95e8). One of the two will be used. Which one is undefined.
+Feb  4 14:30:28 macvm com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Feb  4 14:30:29 macvm efilogin-helper[3578]: objc[3578]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Feb  4 14:30:29 macvm efilogin-helper[3578]: objc[3578]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin (0x7fff8d0a5940) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x1063115e8). One of the two will be used. Which one is undefined.
+Feb  4 14:30:30 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.efilogin-helper.3578): Failed to bootstrap path: path = /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper, error = 2: No such file or directory
+Feb  4 14:30:30 macvm VTDecoderXPCService[3579]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:30:30 macvm VTDecoderXPCService[3579]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:30:30 macvm VTDecoderXPCService[3579]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:30:30 macvm VTDecoderXPCService[3579]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Feb  4 14:30:34 macvm xpcproxy[3581]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port
+Feb  4 14:32:47 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 14:33:01 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0C000000-0500-0000-0000-000000000000[3601]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:33:01 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0200-0000-0000-000000000000[3602]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:33:01 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0000-0000-0000-000000000000[3604]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:33:09 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0000-0000-0000-000000000000[3603]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:34:08 macvm sshd: fhlip0 [priv][3613]: USER_PROCESS: 3616 ttys001
+Feb  4 14:34:08 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 14:34:10 macvm com.apple.xpc.launchd[1] (com.apple.sandboxd[3354]): Service exited due to SIGALRM | sent by kernel_task[0]
+Feb  4 14:34:20 macvm xpcproxy[3621]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port
+Feb  4 14:34:20 macvm MusicCacheExtension[3622]: objc[3622]: Class PDFToRasterImageRef is implemented in both /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/AMPLibrary and /System/Applications/Music.app/Contents/PlugIns/MusicCacheExtension.appex/Contents/MacOS/MusicCacheExtension. One of the two will be used. Which one is undefined.
+Feb  4 14:34:20 macvm TVCacheExtension[3624]: objc[3624]: Class PDFToRasterImageRef is implemented in both /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/AMPLibrary and /System/Applications/TV.app/Contents/PlugIns/TVCacheExtension.appex/Contents/MacOS/TVCacheExtension. One of the two will be used. Which one is undefined.
+Feb  4 14:34:20 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0000-0000-0000-000000000000[3612]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:34:24 macvm com.apple.xpc.launchd[1] (com.apple.preference.security.remoteservice[3402]): Service exited due to SIGKILL | sent by com.apple.preference.security.re[3402]
+Feb  4 14:35:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0100-0000-0000-000000000000[3632]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:35:44 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0100-0000-0000-000000000000[3631]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:36:14 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.diskutil.3665): Failed to bootstrap path: path = /usr/sbin/diskutil, error = 2: No such file or directory
+Feb  4 14:36:14 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.diskutil.3666): Failed to bootstrap path: path = /usr/sbin/diskutil, error = 2: No such file or directory
+Feb  4 14:36:23 macvm log[3746]: log run noninteractively, parent: 3635 (bash), args: 'log' 'collect' '--last' '3d' '--output' '/private/tmp/SentinelLog_2021.02.04_14.35.57_root_ifCaEZ/logs'
+Feb  4 14:36:57 macvm login[557]: DEAD_PROCESS: 557 ttys000
+Feb  4 14:42:57 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 14:43:14 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0200-0000-0000-000000000000[3759]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:43:44 macvm syncdefaultsd[3760]: objc[3760]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 14:43:44 macvm syncdefaultsd[3760]: objc[3760]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Feb  4 14:43:54 macvm diagnosticd[3763]: Posting empty stream filter
+Feb  4 14:43:54 macvm diagnosticd[3763]: no EOS device present
+Feb  4 14:43:54 macvm diagnosticd[3763]: allowing Console (3761) access to stream due to admin status
+Feb  4 14:43:54 macvm diagnosticd[3763]: Posting stream filter: "{
+	    global = 47245099008;
+	}"
+Feb  4 14:43:54 macvm diagnosticd[3763]: System mode client started - Console (3761) - mode: 0xb, filter: "<empty>"
+Feb  4 14:44:08 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 14:44:40 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0100-0000-0000-000000000000[3764]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:45:08 macvm login[3771]: USER_PROCESS: 3771 ttys000
+Feb  4 14:45:32 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.09000000-0200-0000-0000-000000000000[3770]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:50:46 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0200-0000-0000-000000000000[3789]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:50:46 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0300-0000-0000-000000000000[3790]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:52:47 macvm systemstats[106]: assertion failed: 19H2: systemstats + 447891 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x0
+Feb  4 14:53:09 macvm com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0E000000-0400-0000-0000-000000000000[3792]): Service exited due to SIGKILL | sent by mds[122]
+Feb  4 14:56:33 macvm syslogd[96]: ASL Sender Statistics
+Feb  4 14:58:08 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.diskutil.3828): Failed to bootstrap path: path = /usr/sbin/diskutil, error = 2: No such file or directory
+Feb  4 14:58:08 macvm com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.diskutil.3829): Failed to bootstrap path: path = /usr/sbin/diskutil, error = 2: No such file or directory
+Feb  4 14:58:24 macvm log[3909]: log run noninteractively, parent: 3798 (bash), args: 'log' 'collect' '--last' '3d' '--output' '/private/tmp/SentinelLog_2021.02.04_14.57.55_root_KiZ3n0/logs'
+Feb  4 14:58:27 macvm xpcproxy[3910]: libcoreservices: _dirhelper_userdir: 557: bootstrap_look_up returned (ipc/send) invalid destination port

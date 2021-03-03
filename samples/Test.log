@@ -1,0 +1,91 @@
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 11016 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 11016 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 11016 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 11016 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 11212 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 11212 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 11212 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:02:19.648 11452 7476  RpcSessionResolver.cpp 266  TRACE Remote RPC relinking: thread 9776 in process lsass.exe:536 is relinked to process Lateral Movement Unknown Address (interactive session):345, RPC interface: {12345778-1234-ABCD-EF00-0123456789AC}
+2020-09-08T23:14:29.841 11452 7476  Judge.cpp            442  TRACE Group: (Uid: 5D3DA39190DE1FC9, Root: (Uid: 72BAE10F094D1D5D, Name: wrapper-windows-x86-64.exe, Pid: 1524, Session Id: 0)), OSEvent: (Source: (Uid: 7A87057B0E2AB6D6, Name: java.exe, Pid: 1796, Session Id: 0), (Target: (Uid: 7A87057B0E2AB6D6, Name: java.exe, Pid: 1796, Session Id: 0), Event: <network_connection, local_address = "10.1.21.126", local_port = 53258, protocol = "tcp", remote_address = "172.217.3.106", remote_port = 443>)
+2020-09-08T23:00:04.962 1276  8444  HashUtils.cpp        790  TRACE Hashed (pid: 3368, Image: \Device\HarddiskVolume5\Windows\System32\wbem\WMIC.exe): SHA1: A897FBC594597BD9FFCAB75FA894F3F78B08136D, SHA256: 69FE210903C3F03436FE9F00A493CDB822A64EA17A5729593BBE9EC3E0763C1B, MD5: 28C17798ECB0E8D548CEEDEC6CCE2640 File size limit: 0
+2020-09-08T23:00:04.555 11452 7476  Resolver.cpp         1230 INFO  Inserting certificate result for SHA1: ea7f8b2877609ab1bfc9254685749651aac34ddb, path: \Device\HarddiskVolume5\Windows\System32\kernel32.dll
+2020-09-08T23:00:04.555 11452 7476  Resolver.cpp         1230 INFO  Inserting certificate result for SHA1: 06b9741eb747cc560f77ef5351102ad5fa89b9a1, path: \Device\HarddiskVolume5\Windows\System32\KernelBase.dll
+2020-09-08T23:00:04.555 11452 7476  Resolver.cpp         1230 INFO  Inserting certificate result for SHA1: 64f8d1bf9a6d4831091b1709aa8bfa8c8d62512f, path: \Device\HarddiskVolume5\Windows\System32\gdi32.dll
+2020-09-08T23:00:04.555 11452 7476  Resolver.cpp         1230 INFO  Inserting certificate result for SHA1: d6af2720238757de71537ae8592317d78046caca, path: \Device\HarddiskVolume5\Windows\System32\user32.dll
+2020-09-08T23:04:03.797 11452 9696  Storage.cpp          995  INFO  DB Stats:
+** Compaction Stats [default] **
+Level    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+  L0      3/0    8.84 MB   0.8      0.0     0.0      0.0       0.1      0.1       0.0   1.0      0.0     20.7         3        22    0.142       0      0
+  L1      1/0   37.21 MB   0.1      0.1     0.1      0.1       0.1      0.0       0.0   1.9     20.4     17.3         6         5    1.276   9800K   115K
+ Sum      4/0   46.05 MB   0.0      0.1     0.1      0.1       0.2      0.1       0.0   2.7     13.7     18.4        10        27    0.352   9800K   115K
+ Int      0/0    0.00 KB   0.0      0.0     0.0      0.0       0.0      0.0       0.0   0.0      0.0      0.0         0         0    0.000       0      0
+Uptime(secs): 62703.0 total, 300.0 interval
+Flush(GB): cumulative 0.063, interval 0.000
+AddFile(GB): cumulative 0.000, interval 0.000
+AddFile(Total Files): cumulative 0, interval 0
+AddFile(L0 Files): cumulative 0, interval 0
+AddFile(Keys): cumulative 0, interval 0
+Cumulative compaction: 0.17 GB write, 0.00 MB/s write, 0.13 GB read, 0.00 MB/s read, 9.5 seconds
+Interval compaction: 0.00 GB write, 0.00 MB/s write, 0.00 GB read, 0.00 MB/s read, 0.0 seconds
+Stalls(count): 0 level0_slowdown, 0 level0_slowdown_with_compaction, 0 level0_numfiles, 0 level0_numfiles_with_compaction, 0 stop for pending_compaction_bytes, 0 slowdown for pending_compaction_bytes, 0 memtable_compaction, 0 memtable_slowdown, interval 0 total count
+
+** File Read Latency Histogram By Level [default] **
+
+** DB Stats **
+Uptime(secs): 62703.0 total, 300.0 interval
+Cumulative writes: 87K writes, 5922K keys, 87K commit groups, 1.0 writes per commit group, ingest: 0.42 GB, 0.01 MB/s
+Cumulative WAL: 87K writes, 0 syncs, 87702.00 writes per sync, written: 0.42 GB, 0.01 MB/s
+Cumulative stall: 00:00:0.000 H:M:S, 0.0 percent
+Interval writes: 408 writes, 26K keys, 408 commit groups, 1.0 writes per commit group, ingest: 1.88 MB, 0.01 MB/s
+Interval WAL: 408 writes, 0 syncs, 408.00 writes per sync, written: 0.00 MB, 0.01 MB/s
+Interval stall: 00:00:0.000 H:M:S, 0.0 percent
+
+2020-09-08T23:00:00.852 11452 7476  Resolver.cpp         1004 TRACE Process powershell.exe (CLI interpreter):2388 terminated with exit code 0x0
+2020-09-08T23:00:00.852 11452 7476  ProcessInfo.cpp      900  INFO  setTerminated powershell.exe (CLI interpreter):2388 session id 0
+2020-09-08T23:00:00.852 11452 7476  Resolver.cpp         1004 TRACE Process conhost.exe:10952 terminated with exit code 0x0
+2020-09-08T23:00:00.852 11452 7476  ProcessInfo.cpp      900  INFO  setTerminated conhost.exe:10952 session id 0
+2020-09-08T23:00:02.821 11452 7476  FileInfo.cpp         550  WARN  Implicit FileInfo creation \Device\HarddiskVolume5\ProgramData\Sentinel\logs\SentinelOne_18592.binlog
+2020-09-08T23:00:02.821 11452 7476  FileSystemResolver.cpp 560  TRACE DeleteFile: Process SentinelServiceHost.exe:1300 deleted file \Device\HarddiskVolume5\ProgramData\Sentinel\logs\SentinelOne_18592.binlog. The process publisher: SENTINEL LABS, INC., The file owner publisher:
+2020-09-08T23:00:02.821 11452 7476  FileSystemResolver.cpp 112  TRACE The process: SentinelServiceHost.exe:1300. The target file: SentinelOne_18592.binlog. The target file owner: InvalidProcess. The same publisher or executable? : 0
+2020-09-08T23:00:02.821 11452 7476  FileSystemResolver.cpp 942  TRACE CreateFile created; process_name = SentinelServiceHost.exe, process_id = 1300, filename = \Device\HarddiskVolume5\ProgramData\Sentinel\logs\SentinelOne_18608.binlog
+2020-09-08T23:00:02.821 11452 7476  FileSystemResolver.cpp 398  TRACE CreateFile overwritten or superseded; process_name = nmxlwevt.exe, process_id = 6236, filename = \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt, process_publisher = , file_owner_publisher =
+2020-09-08T23:00:02.821 11452 7476  Judge.cpp            442  TRACE Group: (Uid: 5D94FF905ACB3123, Root: (Uid: BE99A8E0D97B0ACF, Name: nmesrvc.exe, Pid: 1556, Session Id: 0)), OSEvent: (Source: (Uid: CD54797897204CA2, Name: nmxlwevt.exe, Pid: 6236, Session Id: 0), (Target: (Uid: D9E84C768C5AB995, Path: \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt), Event: <file_write, processToFileRelation = Owner, isSystem = False, isExecutable = False, isTemporary = False, extensionType = Document>)
+2020-09-08T23:00:02.821 11452 7476  FileSystemResolver.cpp 594  TRACE WriteFile: Process nmxlwevt.exe:6236 wrote to file \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt at offset: 0. The process publisher: , The file owner publisher:
+2020-09-08T23:00:02.821 11452 7476  Judge.cpp            442  TRACE Group: (Uid: 5D94FF905ACB3123, Root: (Uid: BE99A8E0D97B0ACF, Name: nmesrvc.exe, Pid: 1556, Session Id: 0)), OSEvent: (Source: (Uid: CD54797897204CA2, Name: nmxlwevt.exe, Pid: 6236, Session Id: 0), (Target: (Uid: D9E84C768C5AB995, Path: \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt), Event: <file_write, processToFileRelation = Owner, isSystem = False, isExecutable = False, isTemporary = False, extensionType = Document>)
+2020-09-08T23:00:02.821 11452 7476  FileSystemResolver.cpp 594  TRACE WriteFile: Process nmxlwevt.exe:6236 wrote to file \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt at offset: 49. The process publisher: , The file owner publisher:
+2020-09-08T23:00:02.821 11452 7476  Judge.cpp            442  TRACE Group: (Uid: 5D94FF905ACB3123, Root: (Uid: BE99A8E0D97B0ACF, Name: nmesrvc.exe, Pid: 1556, Session Id: 0)), OSEvent: (Source: (Uid: CD54797897204CA2, Name: nmxlwevt.exe, Pid: 6236, Session Id: 0), (Target: (Uid: D9E84C768C5AB995, Path: \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt), Event: <file_write, processToFileRelation = Owner, isSystem = False, isExecutable = False, isTemporary = False, extensionType = Document>)
+2020-09-08T23:00:02.837 11452 7476  FileSystemResolver.cpp 398  TRACE CreateFile overwritten or superseded; process_name = nmxlwevt.exe, process_id = 6236, filename = \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt, process_publisher = , file_owner_publisher =
+2020-09-08T23:00:02.837 11452 7476  Judge.cpp            442  TRACE Group: (Uid: 5D94FF905ACB3123, Root: (Uid: BE99A8E0D97B0ACF, Name: nmesrvc.exe, Pid: 1556, Session Id: 0)), OSEvent: (Source: (Uid: CD54797897204CA2, Name: nmxlwevt.exe, Pid: 6236, Session Id: 0), (Target: (Uid: D9E84C768C5AB995, Path: \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt), Event: <file_write, processToFileRelation = Owner, isSystem = False, isExecutable = False, isTemporary = False, extensionType = Document>)
+2020-09-08T23:00:02.837 11452 7476  FileSystemResolver.cpp 594  TRACE WriteFile: Process nmxlwevt.exe:6236 wrote to file \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt at offset: 0. The process publisher: , The file owner publisher:
+2020-09-08T23:00:02.837 11452 7476  Judge.cpp            442  TRACE Group: (Uid: 5D94FF905ACB3123, Root: (Uid: BE99A8E0D97B0ACF, Name: nmesrvc.exe, Pid: 1556, Session Id: 0)), OSEvent: (Source: (Uid: CD54797897204CA2, Name: nmxlwevt.exe, Pid: 6236, Session Id: 0), (Target: (Uid: D9E84C768C5AB995, Path: \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt), Event: <file_write, processToFileRelation = Owner, isSystem = False, isExecutable = False, isTemporary = False, extensionType = Document>)
+2020-09-08T23:00:02.837 11452 7476  FileSystemResolver.cpp 594  TRACE WriteFile: Process nmxlwevt.exe:6236 wrote to file \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt at offset: 49. The process publisher: , The file owner publisher:
+2020-09-08T23:00:02.837 11452 7476  Judge.cpp            442  TRACE Group: (Uid: 5D94FF905ACB3123, Root: (Uid: BE99A8E0D97B0ACF, Name: nmesrvc.exe, Pid: 1556, Session Id: 0)), OSEvent: (Source: (Uid: CD54797897204CA2, Name: nmxlwevt.exe, Pid: 6236, Session Id: 0), (Target: (Uid: D9E84C768C5AB995, Path: \Device\HarddiskVolume5\OMC\agent_inst\sysman\emd\state\loganalytics\status_os_wineventsystem.txt), Event: <file_write, processToFileRelation = Owner, isSystem = False, isExecutable = False, isTemporary = False, extensionType = Document>)
+2020-09-08T23:04:03.797 11452 9696  Storage.cpp          995  INFO  DB Stats:
+** Compaction Stats [default] **
+Level    Files   Size     Score Read(GB)  Rn(GB) Rnp1(GB) Write(GB) Wnew(GB) Moved(GB) W-Amp Rd(MB/s) Wr(MB/s) Comp(sec) Comp(cnt) Avg(sec) KeyIn KeyDrop
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+  L0      3/0    8.84 MB   0.8      0.0     0.0      0.0       0.1      0.1       0.0   1.0      0.0     20.7         3        22    0.142       0      0
+  L1      1/0   37.21 MB   0.1      0.1     0.1      0.1       0.1      0.0       0.0   1.9     20.4     17.3         6         5    1.276   9800K   115K
+ Sum      4/0   46.05 MB   0.0      0.1     0.1      0.1       0.2      0.1       0.0   2.7     13.7     18.4        10        27    0.352   9800K   115K
+ Int      0/0    0.00 KB   0.0      0.0     0.0      0.0       0.0      0.0       0.0   0.0      0.0      0.0         0         0    0.000       0      0
+Uptime(secs): 62703.0 total, 300.0 interval
+Flush(GB): cumulative 0.063, interval 0.000
+AddFile(GB): cumulative 0.000, interval 0.000
+AddFile(Total Files): cumulative 0, interval 0
+AddFile(L0 Files): cumulative 0, interval 0
+AddFile(Keys): cumulative 0, interval 0
+Cumulative compaction: 0.17 GB write, 0.00 MB/s write, 0.13 GB read, 0.00 MB/s read, 9.5 seconds
+Interval compaction: 0.00 GB write, 0.00 MB/s write, 0.00 GB read, 0.00 MB/s read, 0.0 seconds
+Stalls(count): 0 level0_slowdown, 0 level0_slowdown_with_compaction, 0 level0_numfiles, 0 level0_numfiles_with_compaction, 0 stop for pending_compaction_bytes, 0 slowdown for pending_compaction_bytes, 0 memtable_compaction, 0 memtable_slowdown, interval 0 total count
+
+** File Read Latency Histogram By Level [default] **
+
+** DB Stats **
+Uptime(secs): 62703.0 total, 300.0 interval
+Cumulative writes: 87K writes, 5922K keys, 87K commit groups, 1.0 writes per commit group, ingest: 0.42 GB, 0.01 MB/s
+Cumulative WAL: 87K writes, 0 syncs, 87702.00 writes per sync, written: 0.42 GB, 0.01 MB/s
+Cumulative stall: 00:00:0.000 H:M:S, 0.0 percent
+Interval writes: 408 writes, 26K keys, 408 commit groups, 1.0 writes per commit group, ingest: 1.88 MB, 0.01 MB/s
+Interval WAL: 408 writes, 0 syncs, 408.00 writes per sync, written: 0.00 MB, 0.01 MB/s
+Interval stall: 00:00:0.000 H:M:S, 0.0 percent

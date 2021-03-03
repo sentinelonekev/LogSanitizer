@@ -40,7 +40,7 @@ def main():
 
     sanitizer = LogSanitizer()
     sanitizer.sanitize_files(args)
-    sanitizer.save_secrets(__version__)
+    sanitizer.save_secrets(args.out, __version__)
 
     if args.time:
         sanitizer.timings()

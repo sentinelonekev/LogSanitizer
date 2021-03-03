@@ -1,0 +1,703 @@
+2020-05-27T11:55:09.2229 4992	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-27T11:55:10.8180 4992	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-27T11:55:10.8491 4992	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-27T11:55:10.8856 4992	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-27T11:58:55.5521 3112	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-27T11:58:56.7659 3112	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-27T11:58:56.8287 3112	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-27T11:58:56.8724 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-27T11:58:57.0236 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 87096
+2020-05-27T11:58:57.5044 3112	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-27T11:58:57.5044 3112	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-27T11:58:57.5044 3112	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:3040:2e03:53ef:2568
+2020-05-27T11:58:57.5559 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87097
+2020-05-27T11:58:57.6383 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:02.7072 3112	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87097
+2020-05-27T11:59:02.8333 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87097
+2020-05-27T11:59:04.6739 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87108
+2020-05-27T11:59:04.6969 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:09.8729 3112	12	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87108
+2020-05-27T11:59:09.9424 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87108
+2020-05-27T11:59:10.5785 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87113
+2020-05-27T11:59:10.6030 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:13.1940 3112	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87113
+2020-05-27T11:59:13.2599 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87113
+2020-05-27T11:59:13.7513 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87118
+2020-05-27T11:59:13.7513 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:16.2920 3112	14	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87118
+2020-05-27T11:59:16.3198 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87118
+2020-05-27T11:59:16.5731 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87121
+2020-05-27T11:59:16.5821 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:19.1039 3112	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87121
+2020-05-27T11:59:19.1396 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87121
+2020-05-27T11:59:19.7704 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87124
+2020-05-27T11:59:19.7704 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:22.2999 3112	17	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87124
+2020-05-27T11:59:22.3348 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87124
+2020-05-27T11:59:22.6376 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87127
+2020-05-27T11:59:22.6466 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:25.3782 3112	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 87127
+2020-05-27T11:59:25.4150 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87127
+2020-05-27T11:59:25.5742 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87130
+2020-05-27T11:59:25.5859 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:25.6116 3112	9	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.149
+2020-05-27T11:59:25.6116 3112	9	ActiveScanner.RDnsScanner	RDnsScanner.ScanDnsAsync	WARN	Exception on DNS: An existing connection was forcibly closed by the remote host.. DNS IP: 172.16.218.149:5353
+2020-05-27T11:59:28.1168 3112	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 1 rows, ReqId: 87130
+2020-05-27T11:59:28.1400 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87130
+2020-05-27T11:59:28.6804 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87132
+2020-05-27T11:59:28.6918 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:31.2229 3112	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87132
+2020-05-27T11:59:31.2650 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87132
+2020-05-27T11:59:31.5163 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87133
+2020-05-27T11:59:31.5163 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:34.0651 3112	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87133
+2020-05-27T11:59:34.0906 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87133
+2020-05-27T11:59:34.5131 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87134
+2020-05-27T11:59:34.5308 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:37.0516 3112	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87134
+2020-05-27T11:59:37.2522 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87134
+2020-05-27T11:59:37.5240 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87135
+2020-05-27T11:59:37.5359 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:40.0874 3112	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87135
+2020-05-27T11:59:40.1187 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87135
+2020-05-27T11:59:40.5581 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87137
+2020-05-27T11:59:40.5721 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:43.0831 3112	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87137
+2020-05-27T11:59:43.1116 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87137
+2020-05-27T11:59:43.6302 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87138
+2020-05-27T11:59:43.6433 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:46.0117 3112	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87138
+2020-05-27T11:59:46.0363 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87138
+2020-05-27T11:59:46.3294 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87139
+2020-05-27T11:59:46.3294 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:48.6134 3112	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87139
+2020-05-27T11:59:48.6515 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87139
+2020-05-27T11:59:49.0772 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87140
+2020-05-27T11:59:49.0889 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:51.3548 3112	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87140
+2020-05-27T11:59:51.3778 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87140
+2020-05-27T11:59:51.7351 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87141
+2020-05-27T11:59:51.7486 3112	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T11:59:51.7486 3112	21	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.1
+2020-05-27T11:59:54.0287 3112	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 4 rows, ReqId: 87141
+2020-05-27T11:59:54.0529 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87141
+2020-05-27T11:59:57.1876 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 87142
+2020-05-27T11:59:57.2720 3112	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87142
+2020-05-27T12:01:16.1708 6028	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-27T12:01:16.7738 6028	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-27T12:01:16.8505 6028	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-27T12:01:16.8873 6028	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-27T12:01:17.2289 6028	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 87158
+2020-05-27T12:01:17.2924 6028	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-27T12:01:17.3010 6028	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-27T12:01:17.3010 6028	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:304d:2e26:53ef:2568
+2020-05-27T12:02:41.5519 4844	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-27T12:02:42.0919 4844	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-27T12:02:42.1256 4844	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-27T12:02:42.1784 4844	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-27T12:02:43.6815 4844	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 87171
+2020-05-27T12:02:43.7672 4844	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-27T12:02:43.7690 4844	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-27T12:02:43.7690 4844	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:2091:30c9:53ef:2568
+2020-05-27T12:03:10.7148 4844	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpDisconnect, ReqId: 87175
+2020-05-27T12:03:10.7148 4844	1	Communicator.Client	Client.Dispatch	INFO	Disconnecting because of a request. Descriptive: orchestrator disconnection request
+2020-05-27T12:03:10.9006 4844	1	Ranger.Program	Program.rangerMain	INFO	Shutting down
+2020-05-27T12:03:13.0756 6372	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-27T12:03:13.6319 6372	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-27T12:03:13.6626 6372	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-27T12:03:13.6915 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-27T12:03:14.3002 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 87181
+2020-05-27T12:03:14.3535 6372	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-27T12:03:14.3535 6372	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-27T12:03:14.3535 6372	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:2091:30c9:53ef:2568
+2020-05-27T12:03:21.8871 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87184
+2020-05-27T12:03:21.9072 6372	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T12:03:24.5614 6372	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87184
+2020-05-27T12:03:24.5895 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87184
+2020-05-27T12:03:25.1534 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87186
+2020-05-27T12:03:25.1683 6372	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T12:03:27.5998 6372	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87186
+2020-05-27T12:03:27.6337 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87186
+2020-05-27T12:03:28.9341 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87192
+2020-05-27T12:03:28.9453 6372	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T12:03:31.2342 6372	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87192
+2020-05-27T12:03:31.2621 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87192
+2020-05-27T12:03:31.7905 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87196
+2020-05-27T12:03:31.8019 6372	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T12:03:34.0753 6372	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87196
+2020-05-27T12:03:34.1073 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87196
+2020-05-27T12:03:34.5158 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87199
+2020-05-27T12:03:34.5271 6372	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T12:03:36.8198 6372	22	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87199
+2020-05-27T12:03:36.8440 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87199
+2020-05-27T12:03:37.1920 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87202
+2020-05-27T12:03:37.2053 6372	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T12:03:39.4763 6372	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 87202
+2020-05-27T12:03:39.5057 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87202
+2020-05-27T12:03:40.0583 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 87207
+2020-05-27T12:03:40.0748 6372	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-27T12:03:42.7848 6372	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 87207
+2020-05-27T12:03:42.8370 6372	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 87207
+2020-05-28T11:29:10.6476 3856	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-28T11:29:11.2866 3856	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-28T11:29:11.3290 3856	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-28T11:29:11.3655 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-28T11:29:11.7856 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 110724
+2020-05-28T11:29:11.8672 3856	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-28T11:29:11.8672 3856	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-28T11:29:11.8672 3856	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:2cca:219a:53ef:2568
+2020-05-28T11:29:11.9023 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110725
+2020-05-28T11:29:11.9218 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:15.2752 3856	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110725
+2020-05-28T11:29:15.2986 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110725
+2020-05-28T11:29:16.0976 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110729
+2020-05-28T11:29:16.1124 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:18.6447 3856	20	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110729
+2020-05-28T11:29:18.6880 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110729
+2020-05-28T11:29:19.1549 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110734
+2020-05-28T11:29:19.1688 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:21.7084 3856	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110734
+2020-05-28T11:29:21.7358 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110734
+2020-05-28T11:29:22.0213 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110737
+2020-05-28T11:29:22.0373 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:24.5809 3856	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110737
+2020-05-28T11:29:24.6132 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110737
+2020-05-28T11:29:25.1964 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110744
+2020-05-28T11:29:25.2102 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:27.7409 3856	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110744
+2020-05-28T11:29:27.7690 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110744
+2020-05-28T11:29:28.2683 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110749
+2020-05-28T11:29:28.2841 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:30.8046 3856	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110749
+2020-05-28T11:29:30.8290 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110749
+2020-05-28T11:29:31.3400 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110756
+2020-05-28T11:29:31.3527 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:34.0677 3856	17	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 110756
+2020-05-28T11:29:34.1117 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110756
+2020-05-28T11:29:34.3961 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110762
+2020-05-28T11:29:34.4107 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:34.4473 3856	13	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.149
+2020-05-28T11:29:34.4473 3856	25	ActiveScanner.RDnsScanner	RDnsScanner.ScanDnsAsync	WARN	Exception on DNS: An existing connection was forcibly closed by the remote host.. DNS IP: 172.16.218.149:5353
+2020-05-28T11:29:36.9443 3856	30	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 1 rows, ReqId: 110762
+2020-05-28T11:29:36.9938 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110762
+2020-05-28T11:29:37.0511 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110767
+2020-05-28T11:29:37.0649 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:39.6002 3856	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110767
+2020-05-28T11:29:39.6425 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110767
+2020-05-28T11:29:39.9843 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110772
+2020-05-28T11:29:39.9996 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:42.5258 3856	17	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110772
+2020-05-28T11:29:42.5549 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110772
+2020-05-28T11:29:43.0140 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110781
+2020-05-28T11:29:43.0288 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:45.5553 3856	12	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110781
+2020-05-28T11:29:45.5860 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110781
+2020-05-28T11:29:46.0138 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110788
+2020-05-28T11:29:46.0263 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:48.2871 3856	29	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110788
+2020-05-28T11:29:48.3010 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110788
+2020-05-28T11:29:48.8379 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110795
+2020-05-28T11:29:48.8494 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:51.1134 3856	29	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110795
+2020-05-28T11:29:51.1322 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110795
+2020-05-28T11:29:51.3463 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110800
+2020-05-28T11:29:51.3567 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:53.6307 3856	17	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110800
+2020-05-28T11:29:53.6438 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110800
+2020-05-28T11:29:54.0371 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110806
+2020-05-28T11:29:54.0371 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:56.3300 3856	28	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110806
+2020-05-28T11:29:56.3511 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110806
+2020-05-28T11:29:56.7447 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110812
+2020-05-28T11:29:56.7567 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:59.0158 3856	30	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110812
+2020-05-28T11:29:59.0427 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110812
+2020-05-28T11:29:59.4489 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110818
+2020-05-28T11:29:59.4619 3856	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:29:59.4619 3856	30	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.1
+2020-05-28T11:30:01.7444 3856	20	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 4 rows, ReqId: 110818
+2020-05-28T11:30:01.7677 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110818
+2020-05-28T11:30:10.2385 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 110833
+2020-05-28T11:30:10.3274 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110833
+2020-05-28T11:31:05.5831 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 110847
+2020-05-28T11:31:05.6784 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110847
+2020-05-28T11:32:00.9373 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 110859
+2020-05-28T11:32:01.1058 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110859
+2020-05-28T11:32:56.2857 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 110871
+2020-05-28T11:32:56.3830 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110871
+2020-05-28T11:33:41.6207 3856	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpDisconnect, ReqId: 110881
+2020-05-28T11:33:41.6207 3856	1	Communicator.Client	Client.Dispatch	INFO	Disconnecting because of a request. Descriptive: orchestrator disconnection request
+2020-05-28T11:33:41.7484 3856	1	Ranger.Program	Program.rangerMain	INFO	Shutting down
+2020-05-28T11:33:47.8035 7436	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-28T11:33:48.2857 7436	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-28T11:33:48.3130 7436	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-28T11:33:48.3564 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-28T11:33:49.3064 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 110890
+2020-05-28T11:33:49.3605 7436	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-28T11:33:49.3605 7436	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-28T11:33:49.3605 7436	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:2cca:219a:53ef:2568
+2020-05-28T11:33:49.3824 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110891
+2020-05-28T11:33:49.4012 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:33:51.7896 7436	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110891
+2020-05-28T11:33:51.8228 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110891
+2020-05-28T11:33:51.8436 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110893
+2020-05-28T11:33:51.8562 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:33:54.1508 7436	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110893
+2020-05-28T11:33:54.1772 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110893
+2020-05-28T11:33:54.5817 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110897
+2020-05-28T11:33:54.6002 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:33:56.8791 7436	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110897
+2020-05-28T11:33:56.8936 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110897
+2020-05-28T11:33:57.2460 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110900
+2020-05-28T11:33:57.2606 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:33:59.5621 7436	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110900
+2020-05-28T11:33:59.6055 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110900
+2020-05-28T11:34:00.0106 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110905
+2020-05-28T11:34:00.0221 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:02.3195 7436	22	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110905
+2020-05-28T11:34:02.3741 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110905
+2020-05-28T11:34:02.6441 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110909
+2020-05-28T11:34:02.6560 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:04.9657 7436	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110909
+2020-05-28T11:34:04.9921 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110909
+2020-05-28T11:34:05.3322 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110915
+2020-05-28T11:34:05.3439 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:07.7754 7436	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 110915
+2020-05-28T11:34:07.8142 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110915
+2020-05-28T11:34:08.0198 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110920
+2020-05-28T11:34:08.0322 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:08.0672 7436	15	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.149
+2020-05-28T11:34:08.0696 7436	7	ActiveScanner.RDnsScanner	RDnsScanner.ScanDnsAsync	WARN	Exception on DNS: An existing connection was forcibly closed by the remote host.. DNS IP: 172.16.218.149:5353
+2020-05-28T11:34:10.3091 7436	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 1 rows, ReqId: 110920
+2020-05-28T11:34:10.3341 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110920
+2020-05-28T11:34:10.6338 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110926
+2020-05-28T11:34:10.6456 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:13.0056 7436	24	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110926
+2020-05-28T11:34:13.0419 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110926
+2020-05-28T11:34:13.3443 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110932
+2020-05-28T11:34:13.3443 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:15.6411 7436	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110932
+2020-05-28T11:34:15.6677 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110932
+2020-05-28T11:34:16.0345 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110938
+2020-05-28T11:34:16.0463 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:18.3358 7436	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110938
+2020-05-28T11:34:18.3540 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110938
+2020-05-28T11:34:18.7349 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110944
+2020-05-28T11:34:18.7465 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:21.0357 7436	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110944
+2020-05-28T11:34:21.0702 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110944
+2020-05-28T11:34:21.4349 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110953
+2020-05-28T11:34:21.4496 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:23.7505 7436	38	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110953
+2020-05-28T11:34:24.0695 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110953
+2020-05-28T11:34:24.1452 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110960
+2020-05-28T11:34:24.1576 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:26.4491 7436	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110960
+2020-05-28T11:34:26.4827 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110960
+2020-05-28T11:34:26.8370 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110966
+2020-05-28T11:34:26.8501 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:29.1354 7436	35	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110966
+2020-05-28T11:34:29.1628 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110966
+2020-05-28T11:34:29.5435 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110972
+2020-05-28T11:34:29.5587 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:31.8379 7436	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 110972
+2020-05-28T11:34:31.8683 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110972
+2020-05-28T11:34:32.2456 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 110978
+2020-05-28T11:34:32.2569 7436	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:34:32.2569 7436	37	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.1
+2020-05-28T11:34:34.5642 7436	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 4 rows, ReqId: 110978
+2020-05-28T11:34:34.5954 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110978
+2020-05-28T11:34:44.5725 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 110998
+2020-05-28T11:34:44.6521 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 110998
+2020-05-28T11:35:39.8994 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111015
+2020-05-28T11:35:39.9809 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111015
+2020-05-28T11:36:35.0895 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111026
+2020-05-28T11:36:35.1805 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111026
+2020-05-28T11:37:30.4399 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111038
+2020-05-28T11:37:30.5148 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111038
+2020-05-28T11:38:16.0076 7436	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpDisconnect, ReqId: 111050
+2020-05-28T11:38:16.0076 7436	1	Communicator.Client	Client.Dispatch	INFO	Disconnecting because of a request. Descriptive: orchestrator disconnection request
+2020-05-28T11:38:16.1246 7436	1	Ranger.Program	Program.rangerMain	INFO	Shutting down
+2020-05-28T11:38:21.3573 8160	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-28T11:38:21.7925 8160	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-28T11:38:21.8208 8160	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-28T11:38:21.8483 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-28T11:38:21.9078 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 111057
+2020-05-28T11:38:21.9647 8160	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-28T11:38:21.9647 8160	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-28T11:38:21.9686 8160	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:2cca:219a:53ef:2568
+2020-05-28T11:38:23.4739 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111059
+2020-05-28T11:38:23.4936 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:25.8986 8160	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111059
+2020-05-28T11:38:25.9230 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111059
+2020-05-28T11:38:25.9522 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111063
+2020-05-28T11:38:25.9653 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:28.2580 8160	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111063
+2020-05-28T11:38:28.2770 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111063
+2020-05-28T11:38:28.6530 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111066
+2020-05-28T11:38:28.6686 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:30.9481 8160	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111066
+2020-05-28T11:38:30.9680 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111066
+2020-05-28T11:38:31.3598 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111071
+2020-05-28T11:38:31.3737 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:33.6716 8160	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111071
+2020-05-28T11:38:33.7025 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111071
+2020-05-28T11:38:34.2398 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111077
+2020-05-28T11:38:34.2519 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:36.5264 8160	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111077
+2020-05-28T11:38:36.5475 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111077
+2020-05-28T11:38:36.8541 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111082
+2020-05-28T11:38:36.8669 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:39.1543 8160	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111082
+2020-05-28T11:38:39.1751 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111082
+2020-05-28T11:38:39.5319 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111087
+2020-05-28T11:38:39.5508 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:41.9814 8160	23	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 111087
+2020-05-28T11:38:42.0134 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111087
+2020-05-28T11:38:42.2484 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111092
+2020-05-28T11:38:42.2602 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:42.2847 8160	26	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.149
+2020-05-28T11:38:42.2847 8160	21	ActiveScanner.RDnsScanner	RDnsScanner.ScanDnsAsync	WARN	Exception on DNS: An existing connection was forcibly closed by the remote host.. DNS IP: 172.16.218.149:5353
+2020-05-28T11:38:44.5404 8160	22	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 1 rows, ReqId: 111092
+2020-05-28T11:38:44.5673 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111092
+2020-05-28T11:38:44.9295 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111098
+2020-05-28T11:38:44.9417 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:47.2287 8160	22	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111098
+2020-05-28T11:38:47.2555 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111098
+2020-05-28T11:38:47.5524 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111102
+2020-05-28T11:38:47.5657 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:49.8441 8160	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111102
+2020-05-28T11:38:49.8636 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111102
+2020-05-28T11:38:50.3320 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111108
+2020-05-28T11:38:50.3320 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:52.6267 8160	22	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111108
+2020-05-28T11:38:52.6524 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111108
+2020-05-28T11:38:52.9558 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111112
+2020-05-28T11:38:52.9699 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:55.2589 8160	33	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111112
+2020-05-28T11:38:55.2814 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111112
+2020-05-28T11:38:55.7336 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111118
+2020-05-28T11:38:55.7336 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:38:58.0296 8160	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111118
+2020-05-28T11:38:58.0522 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111118
+2020-05-28T11:38:58.4310 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111126
+2020-05-28T11:38:58.4432 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:39:00.7277 8160	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111126
+2020-05-28T11:39:00.7540 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111126
+2020-05-28T11:39:01.1319 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111132
+2020-05-28T11:39:01.1319 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:39:03.4435 8160	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111132
+2020-05-28T11:39:03.4618 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111132
+2020-05-28T11:39:03.8286 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111137
+2020-05-28T11:39:03.8411 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:39:06.1292 8160	25	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111137
+2020-05-28T11:39:06.1484 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111137
+2020-05-28T11:39:06.4508 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111141
+2020-05-28T11:39:06.4638 8160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:39:06.4866 8160	33	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.1
+2020-05-28T11:39:08.7453 8160	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 4 rows, ReqId: 111141
+2020-05-28T11:39:08.7683 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111141
+2020-05-28T11:39:17.3249 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111156
+2020-05-28T11:39:17.4050 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111156
+2020-05-28T11:40:12.6010 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111171
+2020-05-28T11:40:12.6826 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111171
+2020-05-28T11:41:07.9553 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111182
+2020-05-28T11:41:08.0421 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111182
+2020-05-28T11:42:03.3105 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111193
+2020-05-28T11:42:03.4008 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111193
+2020-05-28T11:42:51.0317 8160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpDisconnect, ReqId: 111205
+2020-05-28T11:42:51.0317 8160	1	Communicator.Client	Client.Dispatch	INFO	Disconnecting because of a request. Descriptive: orchestrator disconnection request
+2020-05-28T11:42:51.1568 8160	1	Ranger.Program	Program.rangerMain	INFO	Shutting down
+2020-05-28T11:42:53.6415 5160	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-05-28T11:42:54.0387 5160	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-05-28T11:42:54.0621 5160	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-05-28T11:42:54.0889 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-05-28T11:42:54.2323 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 111209
+2020-05-28T11:42:54.2891 5160	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-05-28T11:42:54.2891 5160	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-05-28T11:42:54.2891 5160	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:2cca:219a:53ef:2568
+2020-05-28T11:42:59.6367 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111212
+2020-05-28T11:42:59.6560 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:02.0850 5160	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111212
+2020-05-28T11:43:02.1024 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111212
+2020-05-28T11:43:02.3323 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111215
+2020-05-28T11:43:02.3323 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:04.6986 5160	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111215
+2020-05-28T11:43:04.7187 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111215
+2020-05-28T11:43:05.0833 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111220
+2020-05-28T11:43:05.1154 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:07.4452 5160	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111220
+2020-05-28T11:43:07.4794 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111220
+2020-05-28T11:43:07.7355 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111224
+2020-05-28T11:43:07.7581 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:10.0846 5160	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111224
+2020-05-28T11:43:10.1102 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111224
+2020-05-28T11:43:10.4251 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111228
+2020-05-28T11:43:10.4408 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:12.7766 5160	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111228
+2020-05-28T11:43:12.8028 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111228
+2020-05-28T11:43:13.3403 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111235
+2020-05-28T11:43:13.3403 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:15.6322 5160	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111235
+2020-05-28T11:43:15.6599 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111235
+2020-05-28T11:43:15.9079 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111239
+2020-05-28T11:43:15.9177 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:18.3387 5160	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 111239
+2020-05-28T11:43:18.5714 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111239
+2020-05-28T11:43:18.6528 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111245
+2020-05-28T11:43:18.6621 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T11:43:18.7038 5160	11	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.149
+2020-05-28T11:43:18.7038 5160	11	ActiveScanner.RDnsScanner	RDnsScanner.ScanDnsAsync	WARN	Exception on DNS: An existing connection was forcibly closed by the remote host.. DNS IP: 172.16.218.149:5353
+2020-05-28T11:43:20.9619 5160	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 1 rows, ReqId: 111245
+2020-05-28T11:43:21.5317 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111245
+2020-05-28T11:43:22.6450 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111252
+2020-05-28T11:43:22.6539 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:44:54.3909 5160	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111252
+2020-05-28T10:44:54.4166 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111252
+2020-05-28T10:44:54.8582 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111257
+2020-05-28T10:44:54.8582 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:44:57.3898 5160	17	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111257
+2020-05-28T10:44:57.4154 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111257
+2020-05-28T10:44:57.8626 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111262
+2020-05-28T10:44:57.8815 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:45:00.4221 5160	17	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111262
+2020-05-28T10:45:00.4473 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111262
+2020-05-28T10:45:00.9294 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111267
+2020-05-28T10:45:00.9404 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:45:03.4682 5160	21	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111267
+2020-05-28T10:45:03.5025 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111267
+2020-05-28T10:45:03.7755 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111274
+2020-05-28T10:45:03.7851 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:45:06.3117 5160	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111274
+2020-05-28T10:45:06.3375 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111274
+2020-05-28T10:45:06.8612 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111280
+2020-05-28T10:45:06.9225 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:45:09.4675 5160	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111280
+2020-05-28T10:45:09.5095 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111280
+2020-05-28T10:45:09.7843 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111285
+2020-05-28T10:45:09.9259 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:45:12.4672 5160	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111285
+2020-05-28T10:45:12.4880 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111285
+2020-05-28T10:45:12.8569 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111291
+2020-05-28T10:45:12.8569 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:45:15.3905 5160	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 111291
+2020-05-28T10:45:15.4238 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111291
+2020-05-28T10:45:15.9270 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 111296
+2020-05-28T10:45:15.9396 5160	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-05-28T10:45:15.9396 5160	13	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.1
+2020-05-28T10:45:18.4882 5160	17	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 4 rows, ReqId: 111296
+2020-05-28T10:45:18.5128 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111296
+2020-05-28T10:45:21.8579 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111302
+2020-05-28T10:45:21.9467 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111302
+2020-05-28T10:46:24.9356 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111319
+2020-05-28T10:46:25.0291 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111319
+2020-05-28T10:47:26.2193 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 111335
+2020-05-28T10:47:26.3214 5160	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 111335
+2020-08-24T11:41:07.6741 6428	1	Ranger.Program	Program.rangerMain	INFO	---- Ranger is starting ----
+Build Version 4.1.1.1
+Architecture is x86
+Running on Microsoft Windows NT 10.0.15063.0
+
+2020-08-24T11:41:08.3491 6428	1	Communicator.Client	Client.Connect	INFO	Successfully connected to wss://usea1-purple.sentinelone.net/api/v1.6/ranger
+2020-08-24T11:41:08.3828 6428	1	Communicator.Client	Client.Register	INFO	Client registered
+2020-08-24T11:41:08.4382 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 0
+2020-08-24T11:41:09.7330 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpStartPassiveListening, ReqId: 1364596
+2020-08-24T11:41:10.0194 6428	1	Communicator.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2020-08-24T11:41:10.0444 6428	5	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 172.16.218.151
+2020-08-24T11:41:10.0444 6428	4	PassiveDataCollector.RawListener	RawListener.ListenOnInterface	INFO	Creating a raw socket on 2001:0:34f1:8072:1408:95c:53ef:2568
+2020-08-24T11:41:10.0614 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364597
+2020-08-24T11:41:10.1091 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:12.9298 6428	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364597
+2020-08-24T11:41:12.9960 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364597
+2020-08-24T11:41:14.0383 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364609
+2020-08-24T11:41:14.1003 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:16.7437 6428	13	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364609
+2020-08-24T11:41:16.7679 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364609
+2020-08-24T11:41:17.0542 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364621
+2020-08-24T11:41:17.1791 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:19.7529 6428	14	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364621
+2020-08-24T11:41:19.7703 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364621
+2020-08-24T11:41:20.0448 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364630
+2020-08-24T11:41:20.0542 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:22.6238 6428	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364630
+2020-08-24T11:41:22.6497 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364630
+2020-08-24T11:41:23.0291 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364641
+2020-08-24T11:41:23.0467 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:25.5707 6428	9	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364641
+2020-08-24T11:41:25.5893 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364641
+2020-08-24T11:41:26.0305 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364650
+2020-08-24T11:41:26.0422 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:28.5726 6428	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364650
+2020-08-24T11:41:28.5891 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364650
+2020-08-24T11:41:29.0460 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364658
+2020-08-24T11:41:29.0579 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:31.7104 6428	14	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 1364658
+2020-08-24T11:41:31.7270 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364658
+2020-08-24T11:41:32.0476 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364667
+2020-08-24T11:41:32.0606 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:34.5789 6428	20	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364667
+2020-08-24T11:41:34.5940 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364667
+2020-08-24T11:41:35.0538 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364673
+2020-08-24T11:41:35.0674 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:37.5803 6428	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364673
+2020-08-24T11:41:37.5984 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364673
+2020-08-24T11:41:38.1031 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364680
+2020-08-24T11:41:38.1185 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:40.6272 6428	15	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364680
+2020-08-24T11:41:40.6573 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364680
+2020-08-24T11:41:41.0464 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364688
+2020-08-24T11:41:41.0602 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:43.5947 6428	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364688
+2020-08-24T11:41:43.6132 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364688
+2020-08-24T11:41:44.0585 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364694
+2020-08-24T11:41:44.0710 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:46.5859 6428	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364694
+2020-08-24T11:41:46.6129 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364694
+2020-08-24T11:41:47.0574 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364700
+2020-08-24T11:41:47.0664 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:49.5815 6428	16	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364700
+2020-08-24T11:41:49.6083 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364700
+2020-08-24T11:41:50.0434 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364706
+2020-08-24T11:41:50.0574 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:52.5856 6428	18	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364706
+2020-08-24T11:41:52.6156 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364706
+2020-08-24T11:41:53.0634 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364712
+2020-08-24T11:41:53.0768 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:55.6058 6428	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364712
+2020-08-24T11:41:55.6339 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364712
+2020-08-24T11:41:56.0611 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364718
+2020-08-24T11:41:56.0722 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:58.6037 6428	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1364718
+2020-08-24T11:41:58.6496 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364718
+2020-08-24T11:41:59.0589 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpActiveScan, ReqId: 1364725
+2020-08-24T11:41:59.0744 6428	1	Communicator.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2020-08-24T11:41:59.0744 6428	23	ActiveScanner.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.1
+2020-08-24T11:42:01.5905 6428	19	Communicator.Client	Client.OnActiveScanFinish	INFO	Sent active scan results with 4 rows, ReqId: 1364725
+2020-08-24T11:42:01.6088 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364725
+2020-08-24T11:42:11.0749 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 1364749
+2020-08-24T11:42:11.1549 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364749
+2020-08-24T11:43:12.5753 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: RcpRequestPassiveScanData, ReqId: 1364867
+2020-08-24T11:43:12.6736 6428	1	Communicator.Client	Client.Dispatch	INFO	Received request: Status, ReqId: 1364867
+2021-03-01T11:03:00.2219 4700	1	Logger.Logging	Logging.InitializeLogging	INFO	---- SentinelRanger, 4.6.3.19 ----
+Product version: 4.6.3.19
+OS: Microsoft Windows 10.0.15063
+OS version: Microsoft Windows NT 10.0.15063.0
+OS architecture: X86
+Process architecture: X86
+Framework: .NET Core 3.1.11
+
+2021-03-01T11:03:00.2765 4700	1	Communicator.ProxyConfiguration	ProxyConfiguration..ctor	INFO	Attempting to connect with proxy credentials
+2021-03-01T11:03:00.9749 4700	1	Communicator.NetworkChannel	NetworkChannel.SetUp	INFO	Successfully connected to wss://usea1-purple.sentinelone.net//api/v1.6/ranger
+2021-03-01T11:03:01.1716 4700	1	Communicator.NetworkChannel	NetworkChannel.SetUp	INFO	Client registered
+2021-03-01T11:03:01.1943 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 0
+2021-03-01T11:03:10.8914 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpStartPassiveListening, ReqId: 1568641
+2021-03-01T11:03:11.0410 4700	1	ScanControllers.PassiveScan.PassiveDataController	PassiveDataController.StartPassiveListening	INFO	Passive Scanner finished starting a scan successfully
+2021-03-01T11:03:11.0712 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568642
+2021-03-01T11:03:11.0712 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:13.8984 4700	5	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568642
+2021-03-01T11:03:13.9199 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568642
+2021-03-01T11:03:14.2539 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568661
+2021-03-01T11:03:14.2539 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:16.9422 4700	8	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568661
+2021-03-01T11:03:16.9645 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568661
+2021-03-01T11:03:17.1197 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568672
+2021-03-01T11:03:17.1197 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:19.7359 4700	19	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568672
+2021-03-01T11:03:19.7599 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568672
+2021-03-01T11:03:20.0605 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568689
+2021-03-01T11:03:20.0605 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:22.7138 4700	9	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568689
+2021-03-01T11:03:22.7339 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568689
+2021-03-01T11:03:22.9618 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568698
+2021-03-01T11:03:22.9618 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:25.5750 4700	4	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568698
+2021-03-01T11:03:25.5992 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568698
+2021-03-01T11:03:25.9262 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568709
+2021-03-01T11:03:25.9262 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:28.5581 4700	15	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568709
+2021-03-01T11:03:28.5754 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568709
+2021-03-01T11:03:28.8228 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568723
+2021-03-01T11:03:28.8228 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:31.4775 4700	13	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 2 rows, ReqId: 1568723
+2021-03-01T11:03:31.5021 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568723
+2021-03-01T11:03:32.4221 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568737
+2021-03-01T11:03:32.4221 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:35.0513 4700	17	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568737
+2021-03-01T11:03:35.0836 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568737
+2021-03-01T11:03:36.7429 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568753
+2021-03-01T11:03:36.7429 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:39.3745 4700	26	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568753
+2021-03-01T11:03:39.3997 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568753
+2021-03-01T11:03:39.4147 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568759
+2021-03-01T11:03:39.4147 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:42.0466 4700	23	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568759
+2021-03-01T11:03:42.0696 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568759
+2021-03-01T11:03:42.4112 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568767
+2021-03-01T11:03:42.4112 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:45.0043 4700	14	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568767
+2021-03-01T11:03:45.0403 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568767
+2021-03-01T11:03:45.4884 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568774
+2021-03-01T11:03:45.4884 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:48.1070 4700	19	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568774
+2021-03-01T11:03:48.1391 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568774
+2021-03-01T11:03:48.4544 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568779
+2021-03-01T11:03:48.4544 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:51.0588 4700	24	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568779
+2021-03-01T11:03:51.0964 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568779
+2021-03-01T11:03:51.4190 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568786
+2021-03-01T11:03:51.4190 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:54.0150 4700	21	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568786
+2021-03-01T11:03:54.0379 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568786
+2021-03-01T11:03:54.7209 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568793
+2021-03-01T11:03:54.7209 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:03:57.3515 4700	34	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568793
+2021-03-01T11:03:57.3729 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568793
+2021-03-01T11:03:57.4512 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568798
+2021-03-01T11:03:57.4512 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:04:00.0985 4700	18	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 0 rows, ReqId: 1568798
+2021-03-01T11:04:00.1187 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568798
+2021-03-01T11:04:00.4520 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpActiveScan, ReqId: 1568803
+2021-03-01T11:04:00.4520 4700	1	ScanControllers.ActiveScan.ActiveScannerController	ActiveScannerController.StartActiveScanning	INFO	Active Scanner finished starting a scan successfully
+2021-03-01T11:04:00.5352 4700	36	Protocols.Snmp.SnmpScanner	SnmpScanner.RunAsync	ERROR	An existing connection was forcibly closed by the remote host.. IP: 172.16.218.1
+2021-03-01T11:04:03.0520 4700	19	Communicator.RequestRouter	RequestRouter.onActiveScanFinish	INFO	Sent active scan results with 3 rows, ReqId: 1568803
+2021-03-01T11:04:03.0789 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568803
+2021-03-01T11:04:11.0893 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpRequestPassiveScanData, ReqId: 1568833
+2021-03-01T11:04:14.2566 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1568833
+2021-03-01T11:05:12.3171 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: RcpRequestPassiveScanData, ReqId: 1569007
+2021-03-01T11:05:14.9666 4700	1	Communicator.Client	Client.WorkLoop	INFO	Received request: Status, ReqId: 1569007
