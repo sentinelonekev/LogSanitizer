@@ -54,7 +54,7 @@ class LogSanitizer():
                         self.filenames.append(message)
                         print(message)
 
-                        self.make_target_dir()
+                        self.make_target_dir(args.out)
 
                         self.sanitize_file(filename, args.out, reader)
                         break
@@ -62,13 +62,15 @@ class LogSanitizer():
                     print(f"No handler found for {filename}.")
 
     # --------------------------------------------------------------------------
-
+    """
+    create target directory -if it doesn't exist
+    """
     @staticmethod
-    def make_target_dir():
-        if not args.out:
+    def make_target_dir(filename: str):
+        if not filename:
             return
 
-        target = Path(args.out)
+        target = Path(filename)
 
         if target.exists() and not target.is_dir():
             raise Exception(f"{target} is not a valid path.")
