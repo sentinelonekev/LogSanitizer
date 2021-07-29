@@ -3,7 +3,7 @@ from logging import debug as DEBUG
 from pathlib import Path
 from re import compile, fullmatch, search, Match, DOTALL, VERBOSE
 from timeit import default_timer as timer
-
+from typing import Union
 from .storage import Bytes, Guid, Incremental, digits
 
 # ==============================================================================
@@ -21,7 +21,7 @@ class Cui():
     title: Output message
     regex: Matching regex expression
     '''
-    def __init__(self, title: str, regex: [str|list[str]], value: Incremental) -> None:
+    def __init__(self, title: str, regex: Union[str, list[str]], value: Incremental) -> None:
         self.title = title
 
         if not isinstance(regex, list):
